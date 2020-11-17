@@ -1,0 +1,55 @@
+[
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Bar lounge le 100",
+    "adresse": "Rue General de Larminat, 33000 Bordeaux",
+    "note": "5/5",
+    "coordinates": [44.833848, -0.591288]
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Bar la Carene",
+    "adresse": "Casino Barriere, Rue du Cardinal Richaud, 33300 Bordeaux",
+    "note":"5/5",
+    "coordinates": [44.888319, -0.565937]
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Bar-cave",
+    "adresse": "41 Rue Ernest Renan, 33000 Bordeaux",
+    "note" : "5/5",
+    "coordinates": [44.848969, -0.591979]
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "The Wonkey Wonker",
+    "adresse": "20 Rue Fondaudège , 33000 Bordeaux",
+    "note" : "5/5",
+    "coordinates": [44.845849, -0.579171]
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Chicago",
+    "adresse": "20 Rue Piliers de Tutelle , 33000 Bordeaux",
+    "note" : "5/5",
+    "coordinates": [44.840871, -0.573401]
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Tchin Tchin Wine Bar",
+    "adresse": "3 Rue Emile Duployé , 33000 Bordeaux",
+    "note" : "4.9/5",
+    "coordinates": [44.840310, -0.569793]
+    }
+]

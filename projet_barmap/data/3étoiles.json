@@ -1,0 +1,155 @@
+[
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Pub Saint aubin",
+    "adresse" : "6 Place de la Victoire, 33000 Bordeaux",
+    "note" : "3.5/5",
+    "coordinates": [44.830831, -0.571841]
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Night beach",
+    "adresse": "InterContinental Bordeaux - The Grand Hotel 2, 5 Place de la Comedie, 33000 Bordeaux",
+    "note": "3.7/5",
+    "coordinates": [44.842365, -0.574750]
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "L'austra",
+    "adresse": "hangar, 19 Quai de Bacalan, 33300 Bordeaux",
+    "note": "3.2/5",
+    "coordinates": [44.859366, -0.555192]
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Le globe",
+    "adresse": "25 Place Gambetta, 33000 Bordeaux",
+    "note": "3.9/5",
+    "coordinates": [44.840596, -0.581268]
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Le 21",
+    "adresse": "21 Rue Mably, 33000 Bordeaux",
+    "note": "3.1/5",
+    "coordinates": [44.843768, -0.577371]
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Grand Bar Castan",
+    "adresse": "2 Quai de la Douane, 33000 Bordeaux",
+    "note": "3.8/5",
+    "coordinates": [44.840374, -0.569488]
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Cafecito",
+    "adresse": "7 Rue Parlement Saint-Pierre, 33000 Bordeaux",
+    "note": "3.6/5",
+    "coordinates": [44.840149, -0.570669]
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Le dix by gabriel",
+    "adresse": "10 Place de la Bourse, 33000 Bordeaux",
+    "note": "3.8/5",
+    "coordinates": [44.841289, -0.570763]
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "L'Empire Bordeaux",
+    "adresse": "14 Rue de la Devise, 33000 Bordeaux",
+    "note": "3.9/5",
+    "coordinates": [44.839869, -0.571331]
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Bar montaigne",
+    "adresse": "10 Rue Michel Montaigne, 33000 Bordeaux",
+    "note": "3.0/5",
+    "coordinates": [44.843298, -0.576994]
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Le Ranelagh",
+    "adresse": "104 Cours Balguerie Stuttenberg, 33300 Bordeaux",
+    "note": "3.5/5",
+    "coordinates": [44.858173, -0.566892]
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Le Re",
+    "adresse": "Hangar 18, lot n°20, Quai de Bacalan, 33300 Bordeaux",
+    "note": "3.8/5",
+    "coordinates": [44.858563, -0.556493]
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Lariviere Marc Daniel",
+    "adresse": "180 Rue Blanqui, 33300 Bordeaux",
+    "note": "3.4/5",
+    "coordinates": [44.873429, -0.549283]
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Lariviere Marc Daniel",
+    "adresse": "180 Rue Blanqui, 33300 Bordeaux",
+    "note": "3.4/5",
+    "coordinates": [44.873429, -0.549283]
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Cafe Oz",
+    "adresse": "1 Quai Armande Lalande - Hangar G2, 33300 Bordeaux",
+    "note": "3.9/5",
+    "coordinates": [44.862870, -0.554837]
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Latitude 20",
+    "adresse": "134-150 Quai de Bacalan, 33300 Bordeaux",
+    "note": "3.6/5",
+    "coordinates": [44.862231, -0.549891]
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Bar du Centre",
+    "adresse": "Allée de la Morlette, 33150 Cenon",
+    "note": "3.0/5",
+    "coordinates": [44.854466, -0.518671]
+    }
+    
+]

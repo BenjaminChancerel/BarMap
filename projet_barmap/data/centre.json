@@ -1,0 +1,651 @@
+[
+    {
+    "marker-color": "blue",
+    "marker-symbol":"glass",
+    "name": "BAM karaok&eacute Box Bordeaux", 
+    "adresse" : "36 Rue Cornac, 33000 Bordeaux",
+    "note" : "4,6/5",
+    "coordinates": [44.851377, -0.573643],
+    "popup":"Bar ☆☆☆☆"
+    },
+    
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Le Zytho",
+    "adresse" : "28 Rue Latour, 33000 Bordeaux",
+    "note" : "4,6/5",
+    "coordinates": [44.850727, -0.571627],
+    "popup":"Bar ☆☆☆☆"
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "A2 &agrave d2ux",
+    "adresse" : "35 Rue Borie, 33300 Bordeaux",
+    "note" : "4.7/5",
+    "coordinates": [44.854443, -0.569118],
+    "popup":"Bar ☆☆☆☆"
+    },
+  
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "So wines ",
+    "adresse" : "43 Rue Borie, 33300 Bordeaux",
+    "note" : "4.5/5",
+    "coordinates": [44.854637, -0.569559],
+    "popup":"Bar ☆☆☆☆"
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "BBF Bordeaux Beer Factory ",
+    "adresse" : "64 Rue Borie, 33300 Bordeaux",
+    "note" :"4.5/5",
+    "coordinates": [44.854907, -0.570746 ],
+    "popup":"Bar ☆☆☆☆"
+    },
+  
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Le carrelet ",
+    "adresse" : "64bis Rue Lucien Faure, 33300 Bordeaux",
+    "note" : "4,6/5",
+    "coordinates": [44.862539, -0.556740],
+    "popup":"Bar ☆☆☆☆"
+    },
+  
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "ONYRIK",
+    "adresse" : "107 Cours Balguerie Stuttenberg, 33300 Bordeaux",
+    "note" : "4.8/5",
+    "coordinates": [44.859318, -0.565901],
+    "popup":"Bar ☆☆☆☆"
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Les furies douces ",
+    "adresse" : "109 Rue Notre Dame, 33000 Bordeaux",
+    "note" : "4,6/5",
+    "coordinates": [44.853030, -0.570268],
+    "popup":"Bar ☆☆☆☆"
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Cambridge arms",
+    "adresse" : "27 Rue Rode, 33000 Bordeaux",
+    "note" : "4.3/5",
+    "coordinates": [44.852776, -0.572859],
+    "popup":"Bar ☆☆☆☆"
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "The market tavern",
+    "adresse" : "15 Rue Rode, 33000 Bordeaux",
+    "note" : "4.2/5",
+    "coordinates": [44.852544, -0.572273],
+    "popup":"Bar ☆☆☆☆"
+    },
+  
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Bar notre dame",
+    "adresse" : "82 Rue Notre Dame, 33000 Bordeaux",
+    "note" : "4.5/5",
+    "coordinates": [44.852111, -0.570805],
+    "popup":"Bar ☆☆☆☆"
+    },
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Bar la myrtille",
+    "adresse" : "236 Cours Balguerie Stuttenberg, 33300 Bordeaux",
+    "note" : "4.4/5",
+    "coordinates": [44.862205, -0.561266],
+    "popup":"Bar ☆☆☆☆"
+    },
+    
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Les tonneaux des chartrons",
+    "adresse" : "14 Rue Bourbon, 33300 Bordeaux",
+    "note" :"4.3/5",
+    "coordinates": [44.859816, -0.556668],
+    "popup":"Bar ☆☆☆☆"
+    },
+    
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Standby coffee",
+    "adresse" : "80 Rue Lucien Faure, 33300 Bordeaux",
+    "note" :"4.5/5",
+    "coordinates": [44.863432, -0.557903],
+    "popup":"Bar ☆☆☆☆"
+    },
+    
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Le zig zag",
+    "adresse" : "73 Cours de l'Argonne, 33000 Bordeaux",
+    "note" : "4.2/5",
+    "coordinates": [44.828413, -0.574593],
+    "popup":"Bar ☆☆☆☆"
+    },
+    
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Le bad mother fucker",
+    "adresse" : "16 Cours de l'Argonne, 33000 Bordeaux",
+    "note" : "4.5/5",
+    "coordinates": [44.829817, -0.572993],
+    "popup":"Bar ☆☆☆☆"
+    },
+    
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "La barbe rousse",
+    "adresse" : "12 Cours de la Somme, 33800 Bordeaux",
+    "note" : "4.4/5",
+    "coordinates": [44.830090, -0.572262],
+    "popup":"Bar ☆☆☆☆"
+    },
+    
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "The grizzly pub",
+    "adresse" : "12 Place de la Victoire, 33000 Bordeaux",
+    "note" : "4.5/5",
+    "coordinates": [44.830407, -0.572361],
+    "popup":"Bar ☆☆☆☆"
+    },
+    
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Le break",
+    "adresse": "23 Rue de Candale, 33000 Bordeaux",
+    "note" : "4.0/5",
+    "coordinates": [44.831583, -0.572137],
+    "popup":"Bar ☆☆☆☆"
+    },
+    
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "HMS victory pub",
+    "adresse" : "3 Place General Sarrail, 33000 Bordeaux",
+    "note" : "4.2/5",
+    "coordinates": [44.832162, -0.572642],
+    "popup":"Bar ☆☆☆☆"
+    },
+    
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Le maryland",
+    "adresse" : "221 Rue Sainte-Catherine, 33000 Bordeaux",
+    "note" : "4.5/5",
+    "coordinates": [44.833314, -0.573334],
+    "popup":"Bar ☆☆☆☆"
+    },
+    
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Jamboree shoOters bar",
+    "adresse": "22 Rue du Pas-Saint-Georges, 33000 Bordeaux",
+    "note": "4.4/5",
+    "coordinates": [44.838677, -0.571943],
+    "popup":"Bar ☆☆☆☆"
+    },
+    
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "VINTAGE bar ",
+    "adresse": "45 Rue Saint-James, 33000 Bordeaux",
+    "note": "4.3/5",
+    "coordinates": [44.835768,-0.571457],
+    "popup":"Bar ☆☆☆☆"
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Sweet light Bar",
+    "adresse": "4 Rue du Mirail, 33000 Bordeaux",
+    "note": "4.4/5",
+    "coordinates": [44.834696, -0.571133],
+    "popup":"Bar ☆☆☆☆"
+    },
+    
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Ingloroious barstar",
+    "adresse": "4 Place Andre Meunier dit Mureine, 33800 Bordeaux",
+    "note": "4.5/5",
+    "coordinates": [44.829155, -0.563494],
+    "popup":"Bar ☆☆☆☆"
+    },
+    
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "La comtesse",
+    "adresse": "25 Rue Parlement Saint-Pierre, 33000 Bordeaux",
+    "note": "4.4/5",
+    "coordinates": [44.840400, -0.571549],
+    "popup":"Bar ☆☆☆☆"
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Sherlock Holmes",
+    "adresse": "16 Rue Judaique, 33000 Bordeaux",
+    "note": "4.4/5",
+    "coordinates": [44.841531, -0.581915],
+    "popup":"Bar ☆☆☆☆"
+    },
+  
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Grind house",
+    "adresse": "24 Rue Gouvea, 33000 Bordeaux",
+    "note": "4.6/5",
+    "coordinates": [44.835801, -0.572962],
+    "popup":"Bar ☆☆☆☆"
+    },
+  
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Au fut et a mesure",
+    "adresse": "21 Rue Judaique, 33000 Bordeaux",
+    "note": "4.3/5",
+    "coordinates": [44.841682, -0.582196],
+    "popup":"Bar ☆☆☆☆"
+    },
+  
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "L'Apollo Bar",
+    "adresse": "19 Place Fernand Lafargue, 33000 Bordeaux",
+    "note": "4/5",
+    "coordinates": [44.837311, -0.571692],
+    "popup":"Bar ☆☆☆☆"
+    },
+  
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Sputnik Bar",
+    "adresse": "55 Cours d'Alsace-et-Lorraine, 33000 Bordeaux",
+    "note": "4.5/5",
+    "coordinates": [44.837819, -0.571554],
+    "popup":"Bar ☆☆☆☆"
+    },
+  
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Sputnik Bar",
+    "adresse": "55 Cours d'Alsace-et-Lorraine, 33000 Bordeaux",
+    "note": "4.5/5",
+    "coordinates": [44.837819, -0.571554],
+    "popup":"Bar ☆☆☆☆"
+    },
+  
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "The blarney stone",
+    "adresse": "144 Cours Victor Hugo, 33000 Bordeaux",
+    "note": "4.3/5",
+    "coordinates": [44.834782, -0.573678],
+    "popup":"Bar ☆☆☆☆"
+    },
+  
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "The connemara irish pub",
+    "adresse": "18 Cours d'Albret, 33000 Bordeaux",
+    "note": "4.3/5",
+    "coordinates": [44.838377, -0.581447],
+    "popup":"Bar ☆☆☆☆"
+    },
+  
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Le before bordelais",
+    "adresse": "13 Avenue Charles de Gaulle, 33200 Bordeaux",
+    "note": "4.3/5",
+    "coordinates": [44.848589, -0.598245],
+    "popup":"Bar ☆☆☆☆"
+    },
+  
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Bar cave de la monnaie",
+    "adresse": "34 Rue Porte de la Monnaie, 33000 Bordeaux",
+    "note": "4.4/5",
+    "coordinates": [44.832220, -0.562918],
+    "popup":"Bar ☆☆☆☆"
+    },
+  
+      {
+      "marker-color": "blue",
+      "marker-symbol": "glass",
+      "name": "Oxford arms",
+      "adresse": "9 Place des Martyrs de la Résistance, 33000 Bordeaux",
+      "note": "4.5/5",
+      "coordinates": [44.841677, -0.583902],
+      "popup":"Bar ☆☆☆☆"
+      },
+  
+      {
+      "marker-color": "blue",
+      "marker-symbol": "glass",
+      "name": "Chez fred",
+      "adresse": "19 Place du Palais, 33000 Bordeaux",
+      "note": "4.3/5",
+      "coordinates": [44.838369, -0.569572],
+      "popup":"Bar ☆☆☆☆"
+      },
+  
+      {
+      "marker-color": "blue",
+      "marker-symbol": "glass",
+      "name": "Le bar des copains",
+      "adresse": "35 Place des Capucins, 33800 Bordeaux",
+      "note": "4/5",
+      "coordinates": [44.830257, -0.568659],
+      "popup":"Bar ☆☆☆☆"
+      },
+  
+      {
+      "marker-color": "blue",
+      "marker-symbol": "glass",
+      "name": "Duck Bar (Bar gay)",
+      "adresse": "33 Rue Piliers de Tutelle, 33000 Bordeaux",
+      "note": "4.4/5",
+      "coordinates": [44.840082, -0.573476],
+      "popup":"Bar ☆☆☆☆"
+      },
+  
+      {
+      "marker-color": "blue",
+      "marker-symbol": "glass",
+      "name": "Secret d'initiés",
+      "adresse": "10 Rue Parlement Sainte-Catherine, 33000 Bordeaux",
+      "note": "4.5/5",
+      "coordinates": [44.840472, -0.572769],
+      "popup":"Bar ☆☆☆☆"
+      },
+  
+      {
+      "marker-color": "blue",
+      "marker-symbol": "glass",
+      "name": "V and B bordeaux lac",
+      "adresse": "5 Rue la Motte Picquet, 33300 Bordeaux",
+      "note": "4.3/5",
+      "coordinates": [44.873320, -0.560832],
+      "popup":"Bar ☆☆☆☆"
+      },
+  
+      {
+      "marker-color": "blue",
+      "marker-symbol": "glass",
+      "name": "Bar le zèbre",
+      "adresse": "92 Cours de l'Yser, 33800 Bordeaux",
+      "note": "4.3/5",
+      "coordinates": [44.826450, -0.569271],
+      "popup":"Bar ☆☆☆☆"
+      },
+  
+      {
+      "marker-color": "blue",
+      "marker-symbol": "glass",
+      "name": "Le cauderan",
+      "adresse": "157 Rue Pasteur, 33200 Bordeaux",
+      "note": "4.4/5",
+      "coordinates": [44.844911, -0.610083],
+      "popup":"Bar ☆☆☆☆"
+      },
+  
+      {
+      "marker-color": "blue",
+      "marker-symbol": "glass",
+      "name": "L'excale",
+      "adresse": "19 Cours de la Somme, 33800 Bordeaux",
+      "note": "4.5/5",
+      "coordinates": [44.829592, -0.572524],
+      "popup":"Bar ☆☆☆☆"
+      },
+  
+       {
+      "marker-color": "blue",
+      "marker-symbol": "glass",
+      "name": "Cave de la course",
+      "adresse": "43 Rue de la Course, 33000 Bordeaux",
+      "note": "4.4/5",
+      "coordinates": [44.851198, -0.576960],
+      "popup":"Bar ☆☆☆☆"
+      },
+
+      {
+      "marker-color": "blue",
+      "marker-symbol": "glass",
+      "name": "Levrette cafe Bordeaux ",
+      "adresse": "6-8 Rue de Mérignac, 33000 Bordeaux",
+      "note": "4.1/5",
+      "coordinates": [44.840449, -0.570879],
+      "popup":"Bar ☆☆☆☆"
+      }, 
+
+      {
+      "marker-color": "blue",
+      "marker-symbol": "glass",
+      "name": "Pub Saint aubin",
+      "adresse" : "6 Place de la Victoire, 33000 Bordeaux",
+      "note" : "3.5/5",
+      "coordinates": [44.830831, -0.571841],
+      "popup":"Bar ☆☆☆"
+      },
+  
+      {
+      "marker-color": "blue",
+      "marker-symbol": "glass",
+      "name": "Night beach",
+      "adresse": "InterContinental Bordeaux - The Grand Hotel 2, 5 Place de la Comedie, 33000 Bordeaux",
+      "note": "3.7/5",
+      "coordinates": [44.842365, -0.574750],
+      "popup":"Bar ☆☆☆"
+      },
+    
+      {
+      "marker-color": "blue",
+      "marker-symbol": "glass",
+      "name": "Le globe",
+      "adresse": "25 Place Gambetta, 33000 Bordeaux",
+      "note": "3.9/5",
+      "coordinates": [44.840596, -0.581268],
+      "popup":"Bar ☆☆☆"
+      },
+  
+      {
+      "marker-color": "blue",
+      "marker-symbol": "glass",
+      "name": "Le 21",
+      "adresse": "21 Rue Mably, 33000 Bordeaux",
+      "note": "3.1/5",
+      "coordinates": [44.843768, -0.577371],
+      "popup":"Bar ☆☆☆"
+      },
+
+      {
+      "marker-color": "blue",
+      "marker-symbol": "glass",
+      "name": "Cafecito",
+      "adresse": "7 Rue Parlement Saint-Pierre, 33000 Bordeaux",
+      "note": "3.6/5",
+      "coordinates": [44.840149, -0.570669],
+      "popup":"Bar ☆☆☆"
+      },
+  
+      {
+      "marker-color": "blue",
+      "marker-symbol": "glass",
+      "name": "Le dix by gabriel",
+      "adresse": "10 Place de la Bourse, 33000 Bordeaux",
+      "note": "3.8/5",
+      "coordinates": [44.841289, -0.570763],
+      "popup":"Bar ☆☆☆"
+      },
+  
+      {
+      "marker-color": "blue",
+      "marker-symbol": "glass",
+      "name": "L'Empire Bordeaux",
+      "adresse": "14 Rue de la Devise, 33000 Bordeaux",
+      "note": "3.9/5",
+      "coordinates": [44.839869, -0.571331],
+      "popup":"Bar ☆☆☆"
+      },
+  
+      {
+      "marker-color": "blue",
+      "marker-symbol": "glass",
+      "name": "Bar montaigne",
+      "adresse": "10 Rue Michel Montaigne, 33000 Bordeaux",
+      "note": "3.0/5",
+      "coordinates": [44.843298, -0.576994],
+      "popup":"Bar ☆☆☆"
+      },
+  
+      {
+      "marker-color": "blue",
+      "marker-symbol": "glass",
+      "name": "Le Ranelagh",
+      "adresse": "104 Cours Balguerie Stuttenberg, 33300 Bordeaux",
+      "note": "3.5/5",
+      "coordinates": [44.858173, -0.566892],
+      "popup":"Bar ☆☆☆"
+      },
+
+      {
+      "marker-color": "blue",
+      "marker-symbol": "glass",
+      "name": "Lariviere Marc Daniel",
+      "adresse": "180 Rue Blanqui, 33300 Bordeaux",
+      "note": "3.4/5",
+      "coordinates": [44.873429, -0.549283],
+      "popup":"Bar ☆☆☆"
+      },
+  
+      {
+      "marker-color": "blue",
+      "marker-symbol": "glass",
+      "name": "Lariviere Marc Daniel",
+      "adresse": "180 Rue Blanqui, 33300 Bordeaux",
+      "note": "3.4/5",
+      "coordinates": [44.873429, -0.549283],
+      "popup":"Bar ☆☆☆"
+      },
+       {
+      "marker-color": "blue",
+      "marker-symbol": "glass",
+      "name": "Bar du Centre",
+      "adresse": "Allée de la Morlette, 33150 Cenon",
+      "note": "3.0/5",
+      "coordinates": [44.854466, -0.518671],
+      "popup":"Bar ☆☆☆"
+      },
+
+      {
+      "marker-color": "blue",
+      "marker-symbol": "glass",
+      "name": "Bar lounge le 100",
+      "adresse": "Rue General de Larminat, 33000 Bordeaux",
+      "note": "5/5",
+      "coordinates": [44.833848, -0.591288],
+      "popup":"Bar ☆☆☆☆☆"
+      },
+      
+      {
+      "marker-color": "blue",
+      "marker-symbol": "glass",
+      "name": "Bar la Carene",
+      "adresse": "Casino Barriere, Rue du Cardinal Richaud, 33300 Bordeaux",
+      "note":"5/5",
+      "coordinates": [44.888319, -0.565937],
+      "popup":"Bar ☆☆☆☆☆"
+      },
+      
+      {
+      "marker-color": "blue",
+      "marker-symbol": "glass",
+      "name": "Bar-cave",
+      "adresse": "41 Rue Ernest Renan, 33000 Bordeaux",
+      "note" : "5/5",
+      "coordinates": [44.848969, -0.591979],
+      "popup":"Bar ☆☆☆☆☆"
+      },
+      
+      {
+      "marker-color": "blue",
+      "marker-symbol": "glass",
+      "name": "The Wonkey Wonker",
+      "adresse": "20 Rue Fondaudège , 33000 Bordeaux",
+      "note" : "5/5",
+      "coordinates": [44.845849, -0.579171],
+      "popup":"Bar ☆☆☆☆☆"
+      },
+      
+      {
+      "marker-color": "blue",
+      "marker-symbol": "glass",
+      "name": "Chicago",
+      "adresse": "20 Rue Piliers de Tutelle , 33000 Bordeaux",
+      "note" : "5/5",
+      "coordinates": [44.840871, -0.573401],
+      "popup":"Bar ☆☆☆☆☆"
+      },
+      
+      {
+      "marker-color": "blue",
+      "marker-symbol": "glass",
+      "name": "Tchin Tchin Wine Bar",
+      "adresse": "3 Rue Emile Duployé , 33000 Bordeaux",
+      "note" : "4.9/5",
+      "coordinates": [44.840310, -0.569793],
+      "popup":"Bar ☆☆☆☆☆"
+      }
+]
+  
+    

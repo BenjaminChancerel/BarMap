@@ -1,0 +1,152 @@
+[    
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Symbiose",
+    "adresse" : "4 Quai des Chartrons, 33000 Bordeaux",
+    "note" : "4,6/5",
+    "coordinates": [44.849045, -0.570775],
+    "popup":"Bar ☆☆☆☆"
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Bistrot du fromager ",
+    "adresse" : "73 Quai des Chartrons, 33000 Bordeaux",
+    "note" : "4.7/5",
+    "coordinates": [44.853218, -0.567418],
+    "popup":"Bar ☆☆☆☆"
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Joya bar/restaurant ",
+    "adresse" : "en face de l'Iboat, Quai Lawton, 33300 Bordeaux",
+    "note" : "4.7/5",
+    "coordinates": [44.865437, -0.559046],
+    "popup":"Bar ☆☆☆☆"
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Papillon",
+    "adresse" : "8 Quai des Chartrons, 33000 Bordeaux",
+    "note" : "4.9/5",
+    "coordinates": [44.849242, -0.570737],
+    "popup":"Bar ☆☆☆☆"
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "King kong bar",
+    "adresse" : "72 Quai des Chartrons, 33300 Bordeaux",
+    "note" : "4.4/5",
+    "coordinates": [44.853277, -0.567696],
+    "popup":"Bar ☆☆☆☆"
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "La guinguette chez alriq",
+    "adresse" : "ZA Quai des Queyries, Port Bastide, 33100 Bordeaux",
+    "note" : "4.5/5",
+    "coordinates": [44.850597, -0.562149],
+    "popup":"Bar ☆☆☆☆"
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Loft 33 bordeaux",
+    "adresse" : "45 Quai Lawton, 33300 Bordeaux",
+    "note" : "4.3/5",
+    "coordinates": [44.863960, -0.556864],
+    "popup":"Bar ☆☆☆☆"
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Molly malone's",
+    "adresse" :"83 Quai des Chartrons, 33300 Bordeaux",
+    "note" : "4.3/5",
+    "coordinates": [44.853781, -0.566775],
+    "popup":"Bar ☆☆☆☆"
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Point rouge",
+    "adresse": "1 Quai de Paludate, 33800 Bordeaux",
+    "note": "4.6/5",
+    "coordinates": [44.830839, -0.558213],
+    "popup":"Bar ☆☆☆☆"
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Punta cana bar",
+    "adresse": "1 Quai Deschamps, 33100 Bordeaux",
+    "note": "4.2/5",
+    "coordinates": [44.839580, -0.559797],
+    "popup":"Bar ☆☆☆☆"
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "L'austra",
+    "adresse": "hangar, 19 Quai de Bacalan, 33300 Bordeaux",
+    "note": "3.2/5",
+    "coordinates": [44.859366, -0.555192],
+    "popup":"Bar ☆☆☆"
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Grand Bar Castan",
+    "adresse": "2 Quai de la Douane, 33000 Bordeaux",
+    "note": "3.8/5",
+    "coordinates": [44.840374, -0.569488],
+    "popup":"Bar ☆☆☆"
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Le Re",
+    "adresse": "Hangar 18, lot n°20, Quai de Bacalan, 33300 Bordeaux",
+    "note": "3.8/5",
+    "coordinates": [44.858563, -0.556493],
+    "popup":"Bar ☆☆☆"
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Cafe Oz",
+    "adresse": "1 Quai Armande Lalande - Hangar G2, 33300 Bordeaux",
+    "note": "3.9/5",
+    "coordinates": [44.862870, -0.554837],
+    "popup":"Bar ☆☆☆"
+    },
+
+    {
+    "marker-color": "blue",
+    "marker-symbol": "glass",
+    "name": "Latitude 20",
+    "adresse": "134-150 Quai de Bacalan, 33300 Bordeaux",
+    "note": "3.6/5",
+    "coordinates": [44.862231, -0.549891],
+    "popup":"Bar ☆☆☆"
+    }
+
+]
